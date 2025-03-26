@@ -1,0 +1,17 @@
+setup.py
+htr_pipeline/__init__.py
+htr_pipeline.egg-info/PKG-INFO
+htr_pipeline.egg-info/SOURCES.txt
+htr_pipeline.egg-info/dependency_links.txt
+htr_pipeline.egg-info/requires.txt
+htr_pipeline.egg-info/top_level.txt
+htr_pipeline/models/detector.onnx
+htr_pipeline/models/reader.json
+htr_pipeline/models/reader.onnx
+htr_pipeline/reader/__init__.py
+htr_pipeline/reader/ctc.py
+htr_pipeline/word_detector/__init__.py
+htr_pipeline/word_detector/aabb.py
+htr_pipeline/word_detector/aabb_clustering.py
+htr_pipeline/word_detector/coding.py
+htr_pipeline/word_detector/iou.py

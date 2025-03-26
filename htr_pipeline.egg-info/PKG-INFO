@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: htr-pipeline
+Version: 1.2.0
+Summary: Handwritten text recognition pipeline.
+Home-page: https://github.com/githubharald/HTRPipeline
+Author: Harald Scheidl
+Requires-Python: >=3.8
+Requires-Dist: numpy
+Requires-Dist: onnxruntime
+Requires-Dist: opencv-python
+Requires-Dist: scikit-learn
+Requires-Dist: editdistance
+Requires-Dist: path
+Dynamic: author
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
